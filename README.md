@@ -1,5 +1,5 @@
 # CryptoSun Vote
-Website made for blockchain purposal voting for the CryptoSun ecosystem. Vote on CSNIP's by following the instructions below!
+Website made for blockchain purposal voting for the CryptoSun ecosystem. Vote on CSNIP's by following the instructions below! Mechanisms can change in the future be aware of updates and check repo changes!
 
 # Functions
 * Vote with a PR on this repo
