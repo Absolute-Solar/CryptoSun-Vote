@@ -1,7 +1,6 @@
 # CryptoSun Vote
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/cryptosun/cryptosun-vote/CI)]()
 [![Latest Release](https://img.shields.io/github/v/release/cryptosun/cryptosun-vote)]()
 
 ## CryptoSun Vote – Decentralized Governance System
