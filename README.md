@@ -31,7 +31,7 @@ Built using Solana’s SPL Governance Program, the system is modular and support
 1.) Governance Dashboard: <a>https://vote.solarcrypto.ca</a> <br>
 2.) Docs & How-To: <a>https://github.com/Absolute-Solar/CryptoSun-Vote/tree/main/docs</a>
 
-## System Architecture
+## Voting Architecture
 
 ### Components
 
