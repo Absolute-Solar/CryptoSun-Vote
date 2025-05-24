@@ -174,17 +174,6 @@ CryptoSun governance handles several types of proposals:
 | Emergency Action | Critical security fixes | 80% | 6 hours |
 | Renewable Integration | Add new energy sources | 51% | 48 hours |
 
-## Delegation
-
-Token holders can delegate their voting power to trusted representatives:
-
-```typescript
-// Delegate voting power to another address
-await vote.delegateVotes(delegateAddress);
-
-// Return voting power to self
-await vote.undelegateVotes();
-```
 
 ## Governance Parameters
 
