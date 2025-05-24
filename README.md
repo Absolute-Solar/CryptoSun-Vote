@@ -10,28 +10,29 @@ CryptoSun Vote is the on-chain governance module of the CryptoSun ecosystem, int
 As a core part of our long-term vision, CryptoSun Vote enables CSN holders to propose, discuss, and vote on protocol upgrades, treasury allocations, energy trading rules, and maintenance automation. All secured on Solana's high-speed blockchain.
 
 ### Key Governance Features
-Proposal Creation
+
+1.) Proposal Creation
 Any user with a minimum staked balance of CSN tokens can submit proposals to modify system parameters, such as reward formulas, burn schedules, or regional solar deployments.
 
-### Voting Power (1 CSN = 1 Vote)
+2.) Voting Power (1 CSN = 1 Vote)
 Governance weight is directly proportional to the amount of CSN staked in the governance vault. Snapshot-based voting ensures fairness and prevents manipulation.
 
-### On-Chain Execution
+3.) On-Chain Execution
 Proposals that meet the quorum and pass voting thresholds are automatically executed via cross-program invocations, ensuring trustless and timely implementation.
 
-### Delegated Voting
+4.) Delegated Voting
 Token holders may delegate their voting power to trusted representatives, such as energy experts or community leaders, while maintaining the ability to revoke at any time.
 
-### Timelock Safeguard
+5.) Timelock Safeguard
 All successful proposals are subject to a built-in time delay before execution (e.g., 72 hours), providing an additional layer of security and review.
 
-### Transparent Governance Ledger
+6.) Transparent Governance Ledger
 Every proposal, vote, and result is permanently recorded on-chain using Solana’s Proof of History, ensuring full auditability and accountability.
 
-### Community Integration
+7.) Community Integration
 Each proposal includes a discussion link (e.g., Discord, X, or GitHub Discussions) where the community can coordinate and debate ideas off-chain before voting on-chain.
 
-### Upgradeable & Extensible
+8.) Upgradeable & Extensible
 Built using Solana’s SPL Governance Program, the system is modular and supports future enhancements, such as quadratic voting or multi-chain governance bridges.
 
 ### Participate Now
