@@ -1,7 +1,7 @@
 # CryptoSun Vote
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/cryptosun/cryptosun-vote)](https://github.com/Absolute-Solar/CryptoSun-Vote/releases/tag/Vote-V1.0.0)
+[![Latest Release](https://img.shields.io/github/v/release/Absolute-Solar/cryptosun-vote)](https://github.com/Absolute-Solar/CryptoSun-Vote/releases/tag/Vote-V1.0.0)
 
 ## CryptoSun Vote – Decentralized Governance System
 CryptoSun Vote is the on-chain governance module of the CryptoSun ecosystem, integrated with our official platform to empower the community through transparent, decentralized decision-making.
