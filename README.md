@@ -59,7 +59,7 @@ Built using Solana’s SPL Governance Program, the system is modular and support
             └───────────────────────┘
 ```
 
-<img href="https://yellow-negative-parrotfish-381.mypinata.cloud/ipfs/bafkreievvw536ke7ibxgf6xumewnfygm3cr5elbw2iy2mmfp7zgakiyppe" alt="flow2">
+<img src="https://yellow-negative-parrotfish-381.mypinata.cloud/ipfs/bafkreievvw536ke7ibxgf6xumewnfygm3cr5elbw2iy2mmfp7zgakiyppe" alt="flow2">
 
 ### Governance Process Flow
 
