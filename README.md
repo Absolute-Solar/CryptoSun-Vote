@@ -77,11 +77,11 @@ The CryptoSun Vote repository contains the following Solana programs:
 
 | Program | Description | Program ID |
 |---------|-------------|------------|
-| Proposal | Handles creation and management of governance proposals | `csv1...` |
-| Vote | Manages the voting process and vote counting | `vote...` |
-| Treasury | Controls access to community-owned funds | `tres...` |
-| Timelock | Implements security delay for approved changes | `time...` |
-| Parameter Control | Updates system parameters based on vote results | `para...` |
+| Proposal | Handles creation and management of governance proposals | `csv1...TBA` |
+| Vote | Manages the voting process and vote counting | `vote...TBA` |
+| Treasury | Controls access to community-owned funds | `tres...TBA` |
+| Timelock | Implements security delay for approved changes | `time...TBA` |
+| Parameter Control | Updates system parameters based on vote results | `para...TBA` |
 
 ## Getting Started
 
