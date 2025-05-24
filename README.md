@@ -96,7 +96,7 @@ The CryptoSun Vote repository contains the following Solana programs:
 
 ```bash
 # Clone the repository
-git clone https://github.com/cryptosun/cryptosun-vote.git
+git clone https://github.com/Absolute-Solar/CryptoSun-Vote.git
 cd cryptosun-vote
 
 # Install dependencies
