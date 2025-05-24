@@ -38,7 +38,7 @@ Built using Solana’s SPL Governance Program, the system is modular and support
 ```
 ┌───────────────────┐      ┌───────────────────┐      ┌───────────────────┐
 │                   │      │                   │      │                   │
-│  Proposal Program │◄────►│  Vote Program     │◄────►│  Treasury Program │
+│ Proposal Program  │◄────►│   Vote Program    │◄────►│  Treasury Program │
 │                   │      │                   │      │                   │
 └───────────┬───────┘      └────────┬──────────┘      └───────────────────┘
             │                       │                           ▲
@@ -58,6 +58,8 @@ Built using Solana’s SPL Governance Program, the system is modular and support
             │                       │
             └───────────────────────┘
 ```
+
+<img href="https://yellow-negative-parrotfish-381.mypinata.cloud/ipfs/bafkreievvw536ke7ibxgf6xumewnfygm3cr5elbw2iy2mmfp7zgakiyppe">
 
 ### Governance Process Flow
 
