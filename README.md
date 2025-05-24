@@ -4,39 +4,32 @@
 [![Latest Release](https://img.shields.io/github/v/release/Absolute-Solar/cryptosun-vote)](https://github.com/Absolute-Solar/CryptoSun-Vote/releases/tag/Vote-V1.0.0)
 
 ## CryptoSun Vote – Decentralized Governance System
-CryptoSun Vote is the on-chain governance module of the CryptoSun ecosystem, integrated with our official platform to empower the community through transparent, decentralized decision-making.
 
-As a core part of our long-term vision, CryptoSun Vote enables CSN holders to propose, discuss, and vote on protocol upgrades, treasury allocations, energy trading rules, and maintenance automation. All secured on Solana's high-speed blockchain.
+As a core part of our long-term vision, CryptoSun Vote enables CSN holders to propose, discuss, and vote on protocol upgrades, treasury allocations, energy trading rules, and maintenance automation. We provide simple blinks as an extension of our website to take polls.
 
 ### Key Governance Features
 
 ### 1.) Proposal Creation <br>
-Any user with a minimum staked balance of CSN tokens can submit proposals to modify system parameters, such as reward formulas, burn schedules, or regional solar deployments.
+Any user with a minimum staked balance of CSN tokens can submit proposals.
 
 ### 2.) Voting Power (1 CSN = 1 Vote) <br>
-Governance weight is directly proportional to the amount of CSN staked in the governance vault. Snapshot-based voting ensures fairness and prevents manipulation.
+Governance weight is directly proportional to the amount of CSN staked in the governance vault. Snapshot-based voting ensures fairness and prevents manipulation. Ratio of 1:1 so top stakers get top priority.
 
 ### 3.) On-Chain Execution <br>
 Proposals that meet the quorum and pass voting thresholds are automatically executed via cross-program invocations, ensuring trustless and timely implementation.
 
-### 4.) Delegated Voting <br>
-Token holders may delegate their voting power to trusted representatives, such as energy experts or community leaders, while maintaining the ability to revoke at any time.
+### 4.) Transparent Governance Ledger <br>
+Every proposal, vote, and result is permanently recorded on-chain ensuring full auditability and accountability.
 
-### 5.) Timelock Safeguard <br>
-All successful proposals are subject to a built-in time delay before execution (e.g., 72 hours), providing an additional layer of security and review.
-
-### 6.) Transparent Governance Ledger <br>
-Every proposal, vote, and result is permanently recorded on-chain using Solana’s Proof of History, ensuring full auditability and accountability.
-
-### 7.) Community Integration <br>
+### 5.) Community Integration <br>
 Each proposal includes a discussion link (e.g., Discord, X, or GitHub Discussions) where the community can coordinate and debate ideas off-chain before voting on-chain.
 
-### 8.) Upgradeable & Extensible <br>
-Built using Solana’s SPL Governance Program, the system is modular and supports future enhancements, such as quadratic voting or multi-chain governance bridges.
+### 6.) Upgradeable & Extensible <br>
+Built using Solana’s SPL Governance Program, the system is modular and supports future enhancements.
 
 ### Participate Now
 1.) Governance Dashboard: vote.solarcrypto.ca <br>
-2.) Docs & How-To: Governance Documentation
+2.) Docs & How-To: <a> Governance Documentation </a>
 
 ## System Architecture
 
