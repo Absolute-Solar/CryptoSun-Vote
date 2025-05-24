@@ -210,12 +210,6 @@ Special governance features for the renewable energy network:
 We welcome contributions to improve the CryptoSun governance system! Please check our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 
-## Community
-
-- [Governance Forum](https://forum.cryptosun.io)
-- [Discord Governance Channel](https://discord.gg/cryptosun-governance)
-- [Snapshot Page](https://snapshot.org/#/cryptosun.eth)
-
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
