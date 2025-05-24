@@ -28,8 +28,8 @@ Each proposal includes a discussion link (e.g., Discord, X, or GitHub Discussion
 Built using Solana’s SPL Governance Program, the system is modular and supports future enhancements.
 
 ### Participate Now
-1.) Governance Dashboard: <a>vote.solarcrypto.ca</a> <br>
-2.) Docs & How-To: <a>Governance Documentation</a>
+1.) Governance Dashboard: <a>https://vote.solarcrypto.ca</a> <br>
+2.) Docs & How-To: <a>https://github.com/Absolute-Solar/CryptoSun-Vote/tree/main/docs</a>
 
 ## System Architecture
 
