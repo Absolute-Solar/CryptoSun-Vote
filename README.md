@@ -209,13 +209,6 @@ Special governance features for the renewable energy network:
 
 We welcome contributions to improve the CryptoSun governance system! Please check our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.
 
-### Development Workflow
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/voting-enhancement`)
-3. Commit your changes (`git commit -m 'Add weighted voting feature'`)
-4. Push to the branch (`git push origin feature/voting-enhancement`)
-5. Open a Pull Request
 
 ## Community
 
