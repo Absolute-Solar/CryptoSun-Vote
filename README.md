@@ -11,32 +11,32 @@ As a core part of our long-term vision, CryptoSun Vote enables CSN holders to pr
 
 ### Key Governance Features
 
-1.) Proposal Creation <br>
+### 1.) Proposal Creation <br>
 Any user with a minimum staked balance of CSN tokens can submit proposals to modify system parameters, such as reward formulas, burn schedules, or regional solar deployments.
 
-2.) Voting Power (1 CSN = 1 Vote) <br>
+### 2.) Voting Power (1 CSN = 1 Vote) <br>
 Governance weight is directly proportional to the amount of CSN staked in the governance vault. Snapshot-based voting ensures fairness and prevents manipulation.
 
-3.) On-Chain Execution <br>
+### 3.) On-Chain Execution <br>
 Proposals that meet the quorum and pass voting thresholds are automatically executed via cross-program invocations, ensuring trustless and timely implementation.
 
-4.) Delegated Voting <br>
+### 4.) Delegated Voting <br>
 Token holders may delegate their voting power to trusted representatives, such as energy experts or community leaders, while maintaining the ability to revoke at any time.
 
-5.) Timelock Safeguard <br>
+### 5.) Timelock Safeguard <br>
 All successful proposals are subject to a built-in time delay before execution (e.g., 72 hours), providing an additional layer of security and review.
 
-6.) Transparent Governance Ledger <br>
+### 6.) Transparent Governance Ledger <br>
 Every proposal, vote, and result is permanently recorded on-chain using Solana’s Proof of History, ensuring full auditability and accountability.
 
-7.) Community Integration <br>
+### 7.) Community Integration <br>
 Each proposal includes a discussion link (e.g., Discord, X, or GitHub Discussions) where the community can coordinate and debate ideas off-chain before voting on-chain.
 
-8.) Upgradeable & Extensible <br>
+### 8.) Upgradeable & Extensible <br>
 Built using Solana’s SPL Governance Program, the system is modular and supports future enhancements, such as quadratic voting or multi-chain governance bridges.
 
 ### Participate Now
-1.) Governance Dashboard: vote.solarcrypto.ca
+1.) Governance Dashboard: vote.solarcrypto.ca <br>
 2.) Docs & How-To: Governance Documentation
 
 ## System Architecture
