@@ -195,27 +195,6 @@ Special governance features for the renewable energy network:
 - **Regional Parameters**: Governance of region-specific energy parameters
 - **Hardware Certification**: Community voting on approved solar hardware
 
-## Frontend Integration
-
-Example of integrating the voting UI into frontends:
-
-```typescript
-import { VoteSDK } from '@cryptosun/vote-sdk';
-
-// Initialize the SDK
-const voteSDK = new VoteSDK({
-  rpcUrl: 'https://api.mainnet-beta.solana.com',
-  programId: 'vote...'
-});
-
-// Get active proposals
-const proposals = await voteSDK.getActiveProposals();
-
-// Display proposals in UI
-proposals.forEach(proposal => {
-  console.log(`${proposal.id}: ${proposal.title} - ${proposal.voteCount} votes`);
-});
-```
 
 ## Security Considerations
 
@@ -225,16 +204,6 @@ proposals.forEach(proposal => {
 - **Vote Privacy**: Optional private voting using ZK techniques
 - **Emergency Council**: Multi-sig emergency committee for critical security vulnerabilities
 
-## Roadmap
-
-- [x] Basic proposal and voting functionality
-- [x] Treasury management
-- [x] Parameter governance
-- [ ] Enhanced delegation with liquid democracy
-- [ ] Quadratic voting experiments
-- [ ] Cross-chain governance bridge
-- [ ] AI-assisted proposal analysis
-- [ ] Energy-specific governance templates
 
 ## Contributing
 
